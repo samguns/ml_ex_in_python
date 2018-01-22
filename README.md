@@ -1,2 +1,2 @@
-# ml_ex_in_python
-Coursera Machine Learning exercises in Python
+# Machine Learning Exercises in Python
+This repository holds Andrew Ng's Coursera Machine Learning exercises in Python.
